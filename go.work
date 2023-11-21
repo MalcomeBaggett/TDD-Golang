@@ -4,4 +4,5 @@ use (
 ./integers
 ./my-project
 ./iteration
+./arrays
 )
